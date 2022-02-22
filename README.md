@@ -4,7 +4,7 @@ By Noa Amichai and Noa Sapir
 # Project Intro 
 Everybody knew what a Laptop is. <br>
 Households with a personal computer in developed countries is closer to 80 percent. 
-Ans since the 
+
 # Research Question
 Can we predict the price of any Laptop? no matter how many type we have?
 
@@ -26,8 +26,7 @@ This dataset include data
 <li>GPU -Graphics Processing Units (GPU)</li>
 <li>OpSys -Operating System </li>
 <li>Weight </li>
-<li>Price_euros</li>
-<ul> 
+<li>Price_euros</li></ul>
 
 # Models
 We have tryied several models to declaire which one is the best for our project.<br> 
