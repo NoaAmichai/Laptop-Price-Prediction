@@ -29,8 +29,8 @@ This dataset include data
 <li>Price_euros</li></ul>
 
 # Models
-We have tryied several models to declaire which one is the best for our project.<br> 
+We have tried several models to declaire which one is the best for our project.<br> 
 The models we ran:
-Decision Trees, Random Forest and KNN.
+XGBRegressor, Random Forest and KNN.
 
 
