@@ -3,7 +3,7 @@ By Noa Amichai and Noa Sapir
 
 # Project Intro 
 Everybody knew what a Laptop is. <br>
-Households with a personal computer in developed countries is closer to 80 percent. 
+Households with a personal computer in developed countries is closer to 80 percent. <br>
 In our project we got a dataset of laptop prices.
 
 # Research Question
