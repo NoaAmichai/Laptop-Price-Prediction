@@ -2,19 +2,19 @@
 By Noa Amichai and Noa Sapir
 
 # Project Intro 
-Everybody knew what a Laptop is. <br>
-Households with a personal computer in developed countries is closer to 80 percent. <br>
+Everybody knows what a Laptop is. <br>
+Households with a personal computer in developed countries are close to 80 percent. <br>
 In our project we got a dataset of laptop prices.
 
 # Research Question
-Can we predict the price of any Laptop? no matter how many type we have?
+Can we predict the price of any Laptop? no matter how many types we have?
 
 # Data Sources
 We took the DataSet from Kaggle:
 https://www.kaggle.com/muhammetvarl/laptop-price
 
 ### Data Set Information:
-This dataset include data 
+This dataset includes the followoing data:
 <ul> 
 <li>Company- Laptop Manufacturer</li>
 <li>Product -Brand and Model</li>
